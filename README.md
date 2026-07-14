@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Kamalaveni
 
-<!--
-**KamalaveniPerumal/KamalaveniPerumal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full Stack Developer with nearly 3 years of experience in Node.js, React.js, Laravel, MySQL, MongoDB, and AI-powered business applications.
 
-Here are some ideas to get you started:
+## Skills
+- Node.js
+- Express.js
+- React.js
+- Laravel
+- MySQL
+- MongoDB
+- REST APIs
+- JWT Authentication
+- AI Integration
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Professional Experience
+Most professional projects are maintained in private organizational repositories and cannot be shared publicly due to confidentiality requirements.
+
+## Interests
+- AI-powered applications
+- Workflow automation
+- Enterprise software
+- Full-stack development
